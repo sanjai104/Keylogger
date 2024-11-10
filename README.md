@@ -82,10 +82,10 @@ Before using the keylogger, ensure you have the following Python environment set
 
 1. `key_log.txt`
    A text file that logs all the captured key events. It will record key events as strings, one per line:
-   Pressed 'a'
-   Held 'a'
-   Released 'a'
-   Pressed 'b'
+   - Pressed 'a'
+   - Held 'a'
+   - Released 'a'
+   - Pressed 'b'
 2. `key_log.json`
    A JSON file that contains a structured record of the captured key events. This format allows for easier parsing and processing:
    [
